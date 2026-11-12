@@ -38,7 +38,7 @@ studySync/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/agrimatiwari/StudySync.git
+   git clone https://github.com/platform-9-34/StudySync.git
    ```
 
 2. Open the project folder:
